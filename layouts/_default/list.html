@@ -5,9 +5,7 @@
   {{ .Content }}
 
   {{ range .Pages.ByTitle }}
-    <h3>{{ .Key }}</h3>
     <ul>
-      {{ range .Pages }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </li>
