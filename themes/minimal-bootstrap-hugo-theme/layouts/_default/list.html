@@ -3,7 +3,7 @@
 <h1>{{ .Title }}</h1>
 
 {{ $pages := .Pages }}
-{{ range $pages.ByPublishDate.Reverse }}
+{{ range $pages.Alphabetical }}
   <p>
     <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
     <br>
