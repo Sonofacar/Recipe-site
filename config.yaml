@@ -1,3 +1,5 @@
+theme: hugo-flex
+
 params:
   color: teal           # Any color in CSS syntax
   width: 42rem          # Any length in CSS syntax / leave empty to span page
