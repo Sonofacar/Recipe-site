@@ -33,21 +33,18 @@ params:
 
 menu:
   nav:
-    - name: About
-      url: about/
+    - name: Recipes
+      url: recipes/
       weight: 1
-    - name: Posts
-      url: post/
-      weight: 2
     - name: Tags
       url: tags/
-      weight: 3
+      weight: 2
     - name: Categories
       url: categories/
+      weight: 3
+    - name: Ingredients
+      url: ingredients/
       weight: 4
-    - name: RSS
-      url: index.xml
-      weight: 5
 
 mediaTypes:
   font/woff2:
