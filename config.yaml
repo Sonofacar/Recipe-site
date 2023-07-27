@@ -13,7 +13,7 @@ params:
   noClasses: true       # Set to the same value as markup.highlight.noClasses
   headingoffset: 0      # Change heading levels when rendering markdown
   linkicons: false      # Set to hover or true to add a link icon to headings
-  summaries: false      # Set to true to show summaries of posts on homepage
+  summaries: true       # Set to true to show summaries of posts on homepage
   schema: false         # Set to true to add Schema.org metadata
   opengraph: false      # Set to true to add Open Graph metadata
   twittercards: false   # Set to true to add Twitter Cards metadata
