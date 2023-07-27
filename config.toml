@@ -33,7 +33,7 @@ theme = "minimal-bootstrap-hugo-theme"
 [menu]
   [[menu.nav]]
   name = "Recipes"
-  url = "/"
+  url = "/recipes/"
   weight = 1
   [[menu.nav]]
   name = "Categories"
