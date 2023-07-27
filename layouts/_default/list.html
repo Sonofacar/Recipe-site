@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+  {{ partial "heading.html" . }}
+
+  {{ .Content }}
+
+  {{ range .Pages.ByTitle }}
+    <h3>{{ .Key }}</h3>
+    <ul>
+      {{ range .Pages }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+{{ end }}
