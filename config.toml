@@ -37,7 +37,7 @@ theme = "minimal-bootstrap-hugo-theme"
   weight = 1
   [[menu.nav]]
   name = "Categories"
-  url = "/cats/"
+  url = "/categories/"
   weight = 2
   [[menu.nav]]
   name = "Tags"
