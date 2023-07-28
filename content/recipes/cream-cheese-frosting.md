@@ -5,7 +5,7 @@ Tags:
   - dessert
   - cake
   - sweet
-math: true
+summary: Simple cream cheese frosting used with things like carrot cake.
 ---
 
 # Ingredients

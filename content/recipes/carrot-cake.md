@@ -6,7 +6,7 @@ Tags:
   - dessert
   - carrots
   - sweet
-math: true
+summary: Carrot cake made made with apple sauce and cinnamon. Generally made with cream cheese frosting.
 ---
 
 # Ingredients

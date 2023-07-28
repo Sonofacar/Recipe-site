@@ -5,7 +5,7 @@ Tags:
   - cookie
   - dessert
   - sweet
-math: true
+summary: Normal chocolate chip cookies with a bit of cinnamon.
 ---
 
 # Ingredients

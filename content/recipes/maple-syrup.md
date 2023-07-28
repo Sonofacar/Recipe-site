@@ -6,7 +6,7 @@ Tags:
   - quick
   - dessert
   - sweet
-math: true
+summary: Simple maple syrup made from mapleine
 ---
 
 # Ingredients
