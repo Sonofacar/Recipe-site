@@ -12,7 +12,7 @@ math: true
 # Ingredients
 - 2 c. sugar
 - 1 c. water
-- $\frac12$ tsp. mapleine/maple flavor
+- 1/2 tsp. mapleine/maple flavor
 
 # Directions
 1. Combine sugar and water

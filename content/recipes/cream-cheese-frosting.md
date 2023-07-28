@@ -9,7 +9,7 @@ math: true
 ---
 
 # Ingredients
-- $\frac13$ c. butter, softened
+- 1/3 c. butter, softened
 - 3 c. powdered sugar
 - 8 oz. cream cheese, softened
 

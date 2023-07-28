@@ -9,12 +9,11 @@ math: true
 ---
 
 # Ingredients
-
-- $\frac12$ c. flour
-- 3 $\frac12$ tsp. baking powder
+- 1/2 c. flour
+- 3 1/2 tsp. baking powder
 - 1 tsp. salt
 - 1 Tbs. sugar
-- 1 $\frac14$ c. milk
+- 1 1/4 c. milk
 - 1 egg
 - 3 Tbs. melted butter
 

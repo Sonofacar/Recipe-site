@@ -11,12 +11,12 @@ summary: Olive oil cake with fresh basil integrated in dough, topped with whippe
 
 # Ingredients
 - 2 c. all-purpose flour
-- 1 $\frac34$ c. sugar
-- 1 $\frac12$ tsp. kosher salt
-- $\frac12$ tsp. baking soda
-- $\frac12$ tsp. baking powder
-- 1 $\frac13$ c. extra-virgin olive oil
-- 1 $\frac14$ c. whole milk
+- 1 3/4 c. sugar
+- 1 1/2 tsp. kosher salt
+- 1/2 tsp. baking soda
+- 1/2 tsp. baking powder
+- 1 1/3 c. extra-virgin olive oil
+- 1 1/4 c. whole milk
 - 3 eggs
 - zest of 1 lemon
 - 11 large (~2.5-3" long) basil leaves
@@ -24,7 +24,7 @@ summary: Olive oil cake with fresh basil integrated in dough, topped with whippe
 - 1 Tbs. powdered sugar
 
 # Directions
-1. Preheat oven to 350$^\circ$ F
+1. Preheat oven to 350°F
 2. Oil/butter/spray a 9" round cake pan and line bottom with parchment paper. You want it to be at least 2" deep
 3. In a large bowl, sift your flour, sugar, salt, baking soda, and baking powder
 4. Coursely chop basil
