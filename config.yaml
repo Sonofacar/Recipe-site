@@ -1,4 +1,5 @@
 title: Buttars Recipes
+baseURL: 'https://sonofacar.github.io/Recipe-site'
 theme: hugo-flex
 
 params:
