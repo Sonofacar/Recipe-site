@@ -24,7 +24,7 @@ summary: Olive oil cake with fresh basil integrated in dough, topped with whippe
 - 1 Tbs. powdered sugar
 
 # Directions
-1. Preheat oven to $350^/circ$ F
+1. Preheat oven to 350$^\circ$ F
 2. Oil/butter/spray a 9" round cake pan and line bottom with parchment paper. You want it to be at least 2" deep
 3. In a large bowl, sift your flour, sugar, salt, baking soda, and baking powder
 4. Coursely chop basil

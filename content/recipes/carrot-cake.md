@@ -29,7 +29,7 @@ math: true
 3. Fold in carrots
 4. Divide batter into two 9" baking tins (lined with parchment paper)
 	a. A 9"x13" pan works as well, just add 10-15 more minutes on cook time
-5. Bake at $350^\circ$ for 30 minutes
+5. Bake at 350$^\circ$ for 30 minutes
 6. Cool on cooling rack for 30 minutes
 
 [Frosting]({{< ref "/recipes/cream-cheese-frosting.md" >}} "Cream Cheese Frosting)
