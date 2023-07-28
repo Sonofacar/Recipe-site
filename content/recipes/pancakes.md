@@ -5,7 +5,7 @@ Tags:
   - breakfast
   - quick
   - bread
-summary: Normal pancake recipe
+summary: Normal pancake recipe.
 ---
 
 # Ingredients
