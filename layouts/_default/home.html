@@ -29,7 +29,7 @@
     <article>
       {{ partial "heading.html" . }}
       {{ if site.Params.summaries }}
-        {{ .Summary }}
+        {{ site.Title }}
         {{ if .Truncated }}
           <p>
             <a class="u-clickable" href="{{ .RelPermalink }}">Read More…</a>
