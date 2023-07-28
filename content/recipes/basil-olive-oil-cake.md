@@ -6,6 +6,7 @@ Tags:
   - basil
   - cake
 math: true
+summary: Olive oil cake with fresh basil integrated in dough, topped with whipped cream.
 ---
 
 # Ingredients
