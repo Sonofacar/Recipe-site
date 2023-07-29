@@ -12,7 +12,7 @@ Ingredients:
   - salt
   - sugar
   - milk
-  - egg
+  - eggs
   - butter
 summary: Normal pancake recipe.
 ---
