@@ -6,6 +6,7 @@ Tags:
   - breakfast
   - quick
   - bread
+  - pancakes
 Ingredients:
   - flour
   - baking powder
