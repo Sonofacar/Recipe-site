@@ -30,13 +30,6 @@
       {{ partial "heading.html" . }}
       {{ if site.Params.summaries }}
         {{ .Param "summary" }}
-        {{ if .Truncated }}
-          <p>
-            <a class="u-clickable" href="{{ .RelPermalink }}">Read More…</a>
-          </p>
-        {{ end }}
-      {{ else }}
-        {{ .Content }}
       {{ end }}
       {{ partial "tags.html" . }}
     </article>

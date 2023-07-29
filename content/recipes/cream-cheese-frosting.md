@@ -6,6 +6,7 @@ Tags:
   - dessert
   - cake
   - sweet
+  - frosting
 Ingredients:
   - butter
   - powdered sugar

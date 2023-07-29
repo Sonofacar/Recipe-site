@@ -5,7 +5,6 @@ Meal: False
 Tags:
   - cake
   - dessert
-  - carrots
   - sweet
 Ingredients:
   - vanilla extract

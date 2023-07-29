@@ -7,6 +7,7 @@ Tags:
   - quick
   - dessert
   - sweet
+  - syrup
 Ingredients:
   - sugar
   - water
