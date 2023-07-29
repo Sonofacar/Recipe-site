@@ -1,10 +1,15 @@
 ---
 Title: Cream Cheese Frosting
 Date: 02-03-2023
+Meal: False
 Tags:
   - dessert
   - cake
   - sweet
+Ingredients:
+  - butter
+  - powdered sugar
+  - cream cheese
 summary: Simple cream cheese frosting used with things like carrot cake.
 ---
 

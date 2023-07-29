@@ -1,11 +1,25 @@
 ---
 Title: Carrot Cake
 Date: 02-03-2023
+Meal: False
 Tags:
   - cake
   - dessert
   - carrots
   - sweet
+Ingredients:
+  - vanilla extract
+  - apple sauce
+  - sugar
+  - brown sugar
+  - eggs
+  - olive oil
+  - flour
+  - baking soda
+  - baking powder
+  - salt
+  - cinnamon
+  - carrots
 summary: Carrot cake made made with apple sauce and cinnamon. Generally made with cream cheese frosting.
 ---
 

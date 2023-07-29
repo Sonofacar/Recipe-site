@@ -1,10 +1,23 @@
 ---
 Title: Cinnamon Chocolate Chip Cookies
 Date: 02-03-2023
+Meal: False
 Tags:
   - cookie
   - dessert
   - sweet
+Ingredients:
+  - butter
+  - eggs
+  - sugar
+  - brown sugar
+  - vanilla
+  - flour
+  - baking soda
+  - baking powder
+  - cinnamon
+  - salt
+  - chocolate chips
 summary: Normal chocolate chip cookies with a bit of cinnamon.
 ---
 

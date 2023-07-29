@@ -1,11 +1,16 @@
 ---
 Title: Maple Syrup
 Date: 02-03-2023
+Meal: False
 Tags:
   - breakfast
   - quick
   - dessert
   - sweet
+Ingredients:
+  - sugar
+  - water
+  - mapleine
 summary: Simple maple syrup made from mapleine.
 ---
 

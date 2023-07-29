@@ -1,10 +1,19 @@
 ---
 Title: Pancakes
 Date: 02-03-2023
+Meal: True
 Tags:
   - breakfast
   - quick
   - bread
+Ingredients:
+  - flour
+  - baking powder
+  - salt
+  - sugar
+  - milk
+  - egg
+  - butter
 summary: Normal pancake recipe.
 ---
 

@@ -1,10 +1,24 @@
 ---
 Title: Basil Olive Oil Cake
 Date: 02-03-2023
+Meal: False
 Tags:
   - dessert
   - basil
   - cake
+Ingredients:
+  - flour
+  - sugar
+  - salt
+  - baking soda
+  - baking powder
+  - olive oil
+  - milk
+  - eggs
+  - lemon zest 
+  - basil leaves
+  - heavy whipping cream
+  - powdered sugar
 summary: Olive oil cake with fresh basil integrated in dough, topped with whipped cream.
 ---
 
