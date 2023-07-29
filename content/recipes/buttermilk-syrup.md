@@ -13,7 +13,7 @@ Tags:
   - syrup
   - dessert
   - quick
-summary:
+summary: Simple recipe that comes together in minutes. Browning the butter is amazing if the effort is desired.
 ---
 
 # Ingredients
