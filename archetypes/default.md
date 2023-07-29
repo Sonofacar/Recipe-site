@@ -1,7 +1,8 @@
 ---
 Title: "{{ replace .Name "-" " " | title }}"
 Date: {{ .Date }}
-Info: {{ replace .Name ".md" ".json" }}
+Ingredients: 
+  - 
 Tags:
   - 
 summary:
