@@ -9,7 +9,7 @@
 {{ if true | in $taxonomy_is_used_list }}
   <footer>
     {{ range $taxonomy := $taxonomy_list }}
-    <h4>{{ print $taxonomy ":" | humanize }}</h4>
+    <h4>{{ print (humanize $taxonomy) ":" }}</h4>
       {{ if isset $.Params $taxonomy }}
         <ul class="Tags">
           {{ range $.GetTerms $taxonomy }}
