@@ -10,8 +10,11 @@ Ingredients:
  - eggs
  - butter
 Tags:
-  - 
-summary:
+  - breakfast
+  - quick
+  - bread
+  - pancakes
+summary: Easy, tasty buttermilk pancakes that come together very quickly.
 ---
 
 # Ingredients
