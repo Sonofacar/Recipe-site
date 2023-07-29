@@ -1,6 +1,6 @@
 ---
 Title: "{{ replace .Name "-" " " | title }}"
-Date: {{ .Date }}
+Meal: False
 Ingredients: 
   - 
 Tags:
