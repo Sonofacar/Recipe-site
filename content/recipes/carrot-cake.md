@@ -1,6 +1,5 @@
 ---
 Title: Carrot Cake
-Date: 02-03-2023
 Meal: False
 Tags:
   - cake

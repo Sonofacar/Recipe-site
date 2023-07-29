@@ -1,6 +1,6 @@
 ---
 Title: "Cafe Rio Sweet Pork"
-Date: 2023-07-28
+Meal: True
 Ingredients: 
   - soda
   - pork

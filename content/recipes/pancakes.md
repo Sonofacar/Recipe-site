@@ -1,6 +1,5 @@
 ---
 Title: Pancakes
-Date: 02-03-2023
 Meal: True
 Tags:
   - breakfast

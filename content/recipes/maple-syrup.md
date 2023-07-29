@@ -1,6 +1,5 @@
 ---
 Title: Maple Syrup
-Date: 02-03-2023
 Meal: False
 Tags:
   - breakfast

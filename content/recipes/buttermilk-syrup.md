@@ -1,6 +1,6 @@
 ---
 Title: "Buttermilk Syrup"
-Date: 2023-07-29T00:04:09-06:00
+Meal: False
 Ingredients: 
   - sugar
   - buttermilk

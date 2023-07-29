@@ -1,6 +1,5 @@
 ---
 Title: Cream Cheese Frosting
-Date: 02-03-2023
 Meal: False
 Tags:
   - dessert

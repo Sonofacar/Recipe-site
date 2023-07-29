@@ -1,5 +1,6 @@
 ---
 Title: "Buttermilk Pancakes"
+Meal: True
 Ingredients: 
  - flour
  - sugar
