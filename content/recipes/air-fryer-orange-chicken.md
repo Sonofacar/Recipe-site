@@ -15,7 +15,7 @@ Ingredients:
   - orange zest 
   - garlic
   - ginger
-  - chilis
+  - chili peppers
 Tags:
   - asian
   - chicken
@@ -38,7 +38,7 @@ summary: Wonderfully flavored sauce with easy, yet from scratch, fried chicken.
 - zest of 1 orange
 - 4 garlic cloves
 - 2 in. ginger
-- 1-2 chilis
+- 1-2 chili peppers
 
 # Directions
 1. In a saucepan, combine sugar, white vinegar, 1/4 c. water, and orange zest. Stir until it begins to boil.
