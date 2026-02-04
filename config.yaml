@@ -1,5 +1,5 @@
 title: Buttars Recipes
-baseURL: 'https://sonofacar.github.io/Recipe-site'
+baseURL: 'https://recipes.buttars.xyz'
 theme: hugo-flex
 
 taxonomies:
